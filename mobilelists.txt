@@ -2,3 +2,4 @@ huawei mobile price is 3999
 xiaomi mobile price is 2999
 meizu mobile price is 1999
 vivo mobile price is ￥999
+nokia mobile price is ￥799
